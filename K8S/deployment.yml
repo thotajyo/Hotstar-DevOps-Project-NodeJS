@@ -16,4 +16,4 @@ spec:
       - name: hotstar
         image: thotajyo/hotstar
         ports:
-        - containerPort: 80  # Port your application listens on
+        - containerPort: 8080  # Port your application listens on
